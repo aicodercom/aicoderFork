@@ -1,6 +1,5 @@
 # aicoder大前端实习全栈牛高手班开班了，随到随学
-aicoder.com fork 
-
+aicoder.com fork
 - 前端的基础知识
 - 前端的高级知识
 - 面试技巧
@@ -10,3 +9,4 @@ aicoder.com fork
 - 后端开发能力非常强
 - 移动端的开发能力
 - 全端开发能力
+- 全栈实习能力
