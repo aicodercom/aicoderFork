@@ -10,3 +10,5 @@ aicoder.com fork
 - 后端开发能力非常强
 - 移动端的开发能力
 - 全端开发能力
+- node.js
+- jsonserver.js
